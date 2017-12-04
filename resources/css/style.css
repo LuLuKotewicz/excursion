@@ -25,6 +25,21 @@ p {
   font-size: 16px;
 }
 
+.video {
+  width: 404px;
+  height: 720px;
+}
+
+.hero {
+  width: 896px;
+  height: 527px;
+}
+
+.icon {
+  width: 64px;
+  height: 108px;
+}
+
 .copyright {
   text-align: right;
   color: gray;
